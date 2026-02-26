@@ -5,3 +5,4 @@ vim.opt.wrap = true
 vim.opt.linebreak = true
 vim.opt.breakindent = true
 vim.opt.showbreak = "↳ " -- symbol for wrapped lines (optional)
+vim.g.snacks_animate = false
