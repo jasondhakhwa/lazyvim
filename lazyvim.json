@@ -1,7 +1,8 @@
 {
   "extras": [
     "lazyvim.plugins.extras.editor.harpoon2",
-    "lazyvim.plugins.extras.lang.tailwind"
+    "lazyvim.plugins.extras.lang.tailwind",
+    "lazyvim.plugins.extras.linting.eslint"
   ],
   "install_version": 8,
   "news": {
